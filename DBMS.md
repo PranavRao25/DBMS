@@ -47,3 +47,8 @@ Types of Data Models:
 5. Network Data Model
 6. Hierarchical Data Model
 
+#### Database Languages
+1. DDL (Data Definition Language):
+	1. Used to specify the database schema
+2. DML (Data Manipulation Language):
+	1. Used to specify queries and updates
