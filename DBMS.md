@@ -52,3 +52,11 @@ Types of Data Models:
 	1. Used to specify the database schema
 2. DML (Data Manipulation Language):
 	1. Used to specify queries and updates
+
+## ER Model
+
+Entity
+Entity Set
+Attributes
+Relations
+
